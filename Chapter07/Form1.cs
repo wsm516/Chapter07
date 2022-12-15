@@ -21,7 +21,7 @@ namespace Chapter07
         {
             Control c = (Control)sender;
             if (c.Size.Height > 700)
-                c.Size = new Size(c.Size.Width, 700);
+                c.Size = new Size(c.Size.Width,700);
             else if (c.Size.Height < 300)
                 c.Size = new Size(c.Size.Width, 300);
             else if (c.Size.Width > 500)
