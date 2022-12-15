@@ -5,7 +5,7 @@ VisualStudioVersion = 17.3.32901.215
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter07_6_1", "Chapter07\Chapter07_6_1.csproj", "{818F56C5-1275-4765-A5BC-6C4E75722287}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExerciseCh7_6_2", "ExerciseCh7_6_2\ExerciseCh7_6_2.csproj", "{26BDB2EC-AF7C-4AAF-9229-A075C70B0417}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExerciseCh7_6_2","ExerciseCh7_6_2\ExerciseCh7_6_2.csproj", "{26BDB2EC-AF7C-4AAF-9229-A075C70B0417}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise7_6_3", "Exercise7_6_3\Exercise7_6_3.csproj", "{413482B9-F3A7-4283-BE7B-4944B404A598}"
 EndProject
