@@ -42,7 +42,7 @@
             this.button1.Text = "Test";
             this.button1.UseVisualStyleBackColor = true;
             // 
-            // button2
+            // button2 
             // 
             this.button2.Location = new System.Drawing.Point(12, 138);
             this.button2.Name = "button2";
