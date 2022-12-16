@@ -26,7 +26,7 @@
         /// 디자이너 지원에 필요한 메서드입니다. 
         /// 이 메서드의 내용을 코드 편집기로 수정하지 마세요.
         /// </summary>
-        private void InitializeComponent()
+        private void InitializeComponent() 
         {
             this.button1 = new System.Windows.Forms.Button();
             this.button2 = new System.Windows.Forms.Button();
